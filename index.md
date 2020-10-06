@@ -2,6 +2,11 @@
 
 ### Download doujin/hentai-manga without wandering into the depths of web 
 
+## Download
+- For Windows: [Darkness-chan-v1.0.0.exe](https://github.com/SomnathDas/Darkness_chan/releases/download/v1.0.0/darkness-chan-v1.0.0.exe)
+- For Linux: COMING SOON!
+- For macOS: COMING SOON!
+
 ### HOW TO DO THAT ?
 1. Download "darkness-chan-vX.X.X" for your OS Platform.
 2. Run it "AS ADMINISTRATOR" and Make sure to disable anti-virus if it's conflicting with the application.
