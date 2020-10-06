@@ -11,8 +11,8 @@
 # Darkness-chan  
 GUI[Graphical User Interface] based program to download doujin in pdf format using code uwu. Stay Cultured
 
-![](Sample/1.png) 
-![](Sample/2.png) 
+![Neko is God of culture](Sample/5.png) 
+![Darkness-chan uwu](Sample/2.png)
 
 ## Prerequisites
 
