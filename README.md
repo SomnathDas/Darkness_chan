@@ -8,7 +8,7 @@
   </a>
 </p>
 
-# Darkness_chan
+# Darkness-chan  
 GUI[Graphical User Interface] based program to download doujin in pdf format using code uwu. Stay Cultured
 
 ![](Sample/1.png) 
